@@ -9,7 +9,7 @@ app = Flask(__name__)
 load_dotenv()
 app.secret_key = "change-this-secret-key"
 
-#Wilyam
+#awit
  
 # ============================================
 # CHANGE THESE VALUES TO YOUR AWS SETTINGS
